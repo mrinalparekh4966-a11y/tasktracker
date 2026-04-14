@@ -1,0 +1,78 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-04-13",
+  "tasks": [
+    {
+      "id": 1,
+      "title": "File Canadian taxes",
+      "notes": "Set up CRA account from scratch. Hard deadline: end of weekend April 19. CRA systems are down 3AM–6AM ET daily — avoid that window.",
+      "due_date": "2026-04-19",
+      "priority": "high",
+      "status": "done",
+      "created": "2026-04-13"
+    },
+    {
+      "id": 2,
+      "title": "Rectify India tax refund",
+      "notes": "Follow up on refund status and figure out what's needed to resolve it.",
+      "due_date": null,
+      "priority": "medium",
+      "status": "todo",
+      "created": "2026-04-13"
+    },
+    {
+      "id": 3,
+      "title": "Shut off India SIPs",
+      "notes": "Cancel/pause SIP investments in India.",
+      "due_date": null,
+      "priority": "medium",
+      "status": "todo",
+      "created": "2026-04-13"
+    },
+    {
+      "id": 4,
+      "title": "Pay India credit card — OVERDUE",
+      "notes": "Partially paid as of April 13. Follow up to clear remaining balance.",
+      "due_date": "2026-04-13",
+      "priority": "medium",
+      "status": "in_progress",
+      "created": "2026-04-13"
+    },
+    {
+      "id": 7,
+      "title": "Pay India credit card — second card",
+      "notes": "Due end of May.",
+      "due_date": "2026-05-31",
+      "priority": "medium",
+      "status": "todo",
+      "created": "2026-04-13"
+    },
+    {
+      "id": 5,
+      "title": "Get parents' DS-160 signed",
+      "notes": "Must be done before leaving for NY on April 27.",
+      "due_date": "2026-04-26",
+      "priority": "medium",
+      "status": "todo",
+      "created": "2026-04-13"
+    },
+    {
+      "id": 8,
+      "title": "Send SSN to Bank of America",
+      "notes": "Appointment with bank on Wednesday April 15 at 3PM. Will submit SSN then. Needed so BofA can report to FICO and credit score building can start.",
+      "due_date": "2026-04-15",
+      "priority": "high",
+      "status": "in_progress",
+      "created": "2026-04-13"
+    },
+    {
+      "id": 6,
+      "title": "Check wife's mother's passport status",
+      "notes": "Follow up on passport application/renewal status.",
+      "due_date": null,
+      "priority": "medium",
+      "status": "todo",
+      "created": "2026-04-13"
+    }
+  ]
+}
